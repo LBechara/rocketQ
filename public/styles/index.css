@@ -40,6 +40,7 @@ input {
     border: .2rem solid var(--grey-blue);
     padding: 0 1.6rem;
     margin-bottom: 1.8rem;
+    outline: none;
 }
 
 input, button, .button {
